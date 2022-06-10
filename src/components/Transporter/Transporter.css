@@ -1,0 +1,30 @@
+#img_logo{
+    background-image: url('/public/pass_by_bus.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    width: 100%;
+}
+    .home_Transporter{
+        background-color: rgb(255, 249, 249,0.9);
+        opacity: 0.9;
+        width: 70%;
+        height: 95%;
+        border-radius: 20%;
+        margin-right: 15%;
+      }
+      #FormControlLabel{
+          margin-right: 12%;
+      }
+      h1{
+          margin-top: 3%;
+      }
+      body{
+          direction: rtl;
+      }
+      /* @media screan and(min-width:400px)
+      {
+          #FormControlLabel{
+              margin-right:200%
+          }
+      } */
